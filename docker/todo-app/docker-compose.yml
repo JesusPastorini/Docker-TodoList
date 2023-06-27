@@ -1,0 +1,8 @@
+version: '3'
+services:
+  todobackend:
+    build:
+      context: ./docker/todo-app/back-end
+      dockerfile: Dockerfile
+    image: todobackend
+   

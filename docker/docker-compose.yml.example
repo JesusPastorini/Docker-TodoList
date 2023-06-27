@@ -1,6 +1,6 @@
-version: 'X'
+version: '3'
 services:
-  app_A:
+  todobackend:
     # ...
     # parâmetros
     # ...
